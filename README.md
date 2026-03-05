@@ -17,7 +17,7 @@ Deploys [dnstm](https://github.com/net2share/dnstm) DNS tunnel servers with **Sl
 - [🌍 DNS Records Guide](#-dns-records-guide)
 - [⌨️ Usage](#️-usage)
 - [❓ In-TUI Help System](#-in-tui-help-system)
-- [📱 Client Setup (SlipNet)](#-client-setup-slipnet)
+- [📱 Client Apps](#-client-apps)
 - [🛠️ Management Commands](#️-management-commands)
 - [🗑️ Uninstall](#️-uninstall)
 - [📖 Manual Setup Guide](#-manual-setup-guide)
